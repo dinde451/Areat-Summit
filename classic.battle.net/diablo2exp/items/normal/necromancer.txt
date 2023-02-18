@@ -1,0 +1,17 @@
+                  (Affix)    (Affix)                    (Affix)
+Auto Suffixes*     Group      Level      Level Req.*     Freq.      Auto Mod Properties
+
+of Blight           305         1             3            3        Adds 2-7 poison damage over 3 seconds
+
+of Venom                       15            11            2        Adds 5-14 poison damage over 3 seconds
+
+of Pestilence                  25            18            2        Adds 13-28 poison damage over 4 seconds
+
+of Anthrax*                    33            25            2        Adds 25-50 poison damage over 4 seconds
+
+
+Notes
+
+  * Auto suffix names are not used for display, only Auto Mod Properties are shown.
+  * The Level Requirement of the auto mod is never applied to non-magic items.
+  * 'of Anthrax' cannot appear on rare quality Necromancer Shrunken Heads.

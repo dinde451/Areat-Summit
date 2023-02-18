@@ -1,0 +1,25 @@
+body			{ font-family: Arial,Helvetica,Sans-Serif; color: #afafaf; font-size: 10pt; }
+p				{ font-family: Arial,Helvetica,Sans-Serif; color: #afafaf; font-size: 10pt; }
+span			{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; }
+blockquote		{ font-family: Arial,Helvetica,Sans-Serif; color: #afafaf; font-size: 10pt; }
+cite			{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff; font-weight: bold; font-style: normal ; font-size: 10pt; }
+em				{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff; font-weight: bold; font-style: normal ; font-size: 10pt; }
+b				{ font-family: Arial,Helvetica,Sans-Serif; font-weight: bold; font-style: normal; }
+small			{ font-family: Arial,Helvetica,Sans-Serif; font-size: 8pt; font-weight: normal; font-style: normal; }
+li				{ font-family: Arial,Helvetica,Sans-Serif; color: #afafaf; font-size: 10pt; line-height: 110% }
+br				{ line-height: 100% }
+
+a:link			{ font-family: Arial,Helvetica,Sans-Serif; color: #928a70; font-weight: bold }
+a:visited		{ font-family: Arial,Helvetica,Sans-Serif; color: #706850; font-weight: bold }
+a:active		{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff; font-weight: bold }
+a:hover			{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff; font-weight: bold }
+
+a.popup:link	{ font-family: Arial,Helvetica,Sans-Serif; color: #928a70 }
+a.popup:visited	{ font-family: Arial,Helvetica,Sans-Serif; color: #706850 }
+a.popup:active	{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff }
+a.popup:hover	{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff }
+
+a.tiny:link		{ font-family: Arial,Helvetica,Sans-Serif; color: #B4AC92; font-weight: normal; font-size: 8pt }
+a.tiny:visited	{ font-family: Arial,Helvetica,Sans-Serif; color: #928A72; font-weight: normal; font-size: 8pt }
+a.tiny:active	{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff; font-weight: normal; font-size: 8pt }
+a.tiny:hover	{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff; font-weight: normal; font-size: 8pt }
